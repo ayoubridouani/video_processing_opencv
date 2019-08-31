@@ -34,3 +34,10 @@
 
 ## foreground/background Segmentation using MOG2:
 ![MOG2](https://raw.githubusercontent.com/ayoubridouani/video_processing_opencv/master/screenshots/MOG2.png "MOG2")
+
+
+
+
+to contact me: ridouaniayoub@gmail.com
+
+good luck
